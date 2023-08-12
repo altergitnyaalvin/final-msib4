@@ -1,0 +1,146 @@
+[
+    {
+        "id": "B1",
+        "name": "Alfin",
+        "appellation": "The Humble Leader 🏆",
+        "description": "Tahu nggak, banyak orang yang bisa bicara tapi sedikit yang mampu mendengar? Di antara teman-temanmu mungkin kamu adalah orang yang paling mau memahami dan mendengar, basic manner komunikasi dan knowledge-mu bisa bikin kamu jadi leader. Tinggal poles hard skill-mu, powermu mungkin akan jauh lebih bertambah."
+    },
+    {
+        "id": "B2",
+        "name": "Alvitto",
+        "appellation": "The Miracle Boy 👦🏻",
+        "description": "Kalau dirimu bekerja di tim-ku mungkin akan kujadikan man power yang bisa dipercaya dan orang yang mengandalkanmu akan merasa aman. Sedikit adaptasi dengan lingkungan yang variatif, kamu akan lebih banyak dicari orang-orang, jangan menyerah bro untuk memahami sesuatu selain per-coding-an. Stay humble, stay foolish kalo kata steve jobs."
+    },
+    {
+        "id": "B3",
+        "name": "Dzakwan",
+        "appellation": "The Jenius One 💡",
+        "description": "Kalau seandainya gua perlu assistant untuk handle mentee-mentee lain, lu orang yang tepat. Maafin gua wan kalau gua belum bisa kasih lu experience baru di environment React, belum bisa nambahin ilmu yang mungkin belum lu kuasai. Tapi gua yakin lu cuma butuh mentor yang tepat, yang bisa guide ide-ide dan solusi yang mau lu pakek buat pemecahan masalah. Semoga lu nggak pernah salah pilih tempat buat berkembang. Makasih udah bantu beberapa mentee selama gua kerja ya wan. See u on the top, bre!"
+    },
+    {
+        "id": "B4",
+        "name": "Fadli",
+        "appellation": "The Fighter 🥷",
+        "description": "Slow but sure. Setelah melihat perkembangan dan effort-mu di capstone project ini kamu tetap mencoba memahami dan menyelesaikan meskipun rasanya mau nyerah. Tapi sebenarnya kamu sudah menginvestasikan kesulitan disini dan suatu saat akan berguna. Menyerahlah jika memang sudah waktunya menyerah."
+    },
+    {
+        "id": "B5",
+        "name": "Fatur",
+        "appellation": "The Dreamer One 💭",
+        "description": "Aku tau setiap kelas kamu sering ngantuk-ngantuk tur hahaha. But it's okay, kamu rela nahan ngantuk buat belajar. Secara kemampuan kamu potensial tur buat berkembang karna udah lewati mini project sama capstone, jangan bosen-bosen belajar yak. Thank you masih tetep hadir & mendengarkan selama di kelas."
+    },
+    {
+        "id": "B6",
+        "name": "Pau",
+        "appellation": "The Great Researcher 🔬",
+        "description": "Pau, kamu salah satu mentee yang sering interaksi soal tugas & masalah materi ke aku. Tapi berkat rajin bertanya ke aku untungnya kamu tidak tersesat hahaha. Aku tahu kalau kamu sudah makin berkurang bertanya berarti kamu sudah mulai paham sama materinya, dan aku bersyukur kamu makin berkembang setelah memantau progress mini project & capstone-mu karena kamu makin memahami permasalahannya dan tahu kemana mencari jawabannya. Jangan berhenti sampai disini buat belajar React yaa!"
+    },
+    {
+        "id": "B7",
+        "name": "Oniw",
+        "appellation": "The Struggle One 🔥",
+        "description": "Pernah nggak kepikiran kalau orang yang melewati sesuatu atau menjalani proses itu memang udah takdirnya? Kalau memang demikian, mungkin kesempatanmu dapat join program stupen ini bukan suatu kebetulan. Emang sih se-effort itu buat menyelesaikan prosesnya, tapi apapun hasilnya kayaknya pasti ada yang bisa diambil nggak sih? Mungkin kalau waktu bisa diputar, aku akan keep more attention ke dirimu dan beberapa mentee yang lain yang kesusahan, dan aku harap kamu lebih aktif. Tapi apapun kesulitan di batch ini semoga tetep memberikan hikmah buat kita semua. Makasih yaa masih tetep berupaya."
+    },
+    {
+        "id": "B8",
+        "name": "Hasan",
+        "appellation": "The Great Observer 🔍",
+        "description": "Ambisius & antusias di setiap progressnya. Tapi aku harap kamu menikmati semua prosesnya, san. Kalau ibarat kelas di sekolah kamu dipandang ketua kelas yang rajin duduk di depan kelas. Kamu bisa membantu aku untuk membangun kondusifitas kelas yang baik lewat pertanyaan-pertanyaanmu atau lewat tanggapanmu. Semoga dapat tempat magang & kerja yang cocok, san. Supaya kemampuanmu semakin meningkat, see u on the top!"
+    },
+    {
+        "id": "B9",
+        "name": "Adzan",
+        "appellation": "The Hustle and The Adventurer 🤠",
+        "description": "Slogan mainstream My trip, My Adventure ternyata nggak cuma cocok di hobi motoranmu doang, spirit eksplorasi banyak hal juga bisa dicoba di dunia software engineering kok, dan nggak kalah seru dari traveling. Ngoding di outdoor atau di ketinggian 300 mdpl juga seru kalau mau coba hahaha"
+    },
+    {
+        "id": "B10",
+        "name": "Nabil",
+        "appellation": "The Barudak Well 😁",
+        "description": "Setiap ngomong suaranya kenapa bisa se-sopan itu ya, bil? hahaha alus pisan euy. Kalau masih bingung mau ngejar karir apa atau tujuan, coba-coba aja dulu semuanya. Tapi dunia ini nggak cuman tentang karir kok, apapun yang bakal kamu coba nanti jangan nyerah dan tetep semangat. Btw, makasih ya jauh-jauh ke bandung cuma karena kuajak ngopi hahaha."
+    },
+    {
+        "id": "B11",
+        "name": "Mujib",
+        "appellation": "The Star 🌟",
+        "description": "Nggak perlu ku deskripsikan lagi ya siapa dirimu. Tanpa dijabarkan orang-orang tahu kamu yang paling bersinar hahaha. Kualitas kerja sama nggak diragukan lagi, kamu bisa membuat dirimu diterima orang-orang, paling keliatan gampang untuk membaur. Aku rasa kemampuan adaptifmu bisa dipakai untuk belajar banyak hal, jib. Kelas ini nggak akan harmonis tanpa adanya dirimu. Thanks sudah hadir dan selalu meramaikan kelas, sukses terus ya buat ke depannya!"
+    },
+    {
+        "id": "B12",
+        "name": "Nindy",
+        "appellation": "The Awesome Singer 🎶 ",
+        "description": "Kesalahanku menebak para mentee disini cuma satu yaitu kamu, karna aku salah mengira kalau kamu orang yang jaim. Padahal kan pura-pura jaim ya, nin. Perlu kata-kata apa dariku untuk semua yang kamu lewati di batch ini, nin? Aku nggak perlu mem-validasi dirimu kalau kamu kuat mental & hebat karena sepertinya kamu sudah tahu kalau kamu memang sehebat itu kan. Aku pikir kamu perlu istirahat dulu sebentar, jangan terlalu keras dengan dirimu sendiri. Tetep semangat & sabar, karena esok akan lebih parah."
+    },
+    {
+        "id": "B13",
+        "name": "Norman",
+        "appellation": "The Persistent one 💀",
+        "description": "Di antara mentee-mentee di kelas ini kamu salah satu yang cukup gigih untuk mengikuti batch ini. Hmm, menurutku kamu perlu coba untuk lebih grounding ke dirimu sendiri apa yang membuat dirimu merasa terhambat dan mencoba untuk membangun habbit baru. Aku juga sama kok lagi struggle dengan masalah habbit, tapi kalau kamu bisa mengubah diri sendiri kamu akan lebih maksimal. Good luck!"
+    },
+    {
+        "id": "B14",
+        "name": "Nuzul",
+        "appellation": "The Difference one",
+        "description": "Aku pikir kamu orang yang kreatif di suatu tempat dan berani untuk berbeda dengan yang lain. Aku nggak tahu banyak tentang dirimu karena kesempatan interaksi yang sebentar. Kalau waktu bisa diputar, mungkin aku akan membuka pikiran dan telinga kalau kamu ada masalah. Semoga kebaikan menyertaimu."
+    },
+    {
+        "id": "B15",
+        "name": "Rifqi",
+        "appellation": "The Millitant Warrior 🪖",
+        "description": "Mungkin aja setelah kamu tahu kalau pindah ke kelas lain nggak bisa, kamu bisa aja untuk nggak lagi aktif di program ini. Tapi, untungnya kamu punya bahan bakar kemauan yang tinggi, yang jarang orang punya atau alasan apapun untuk kamu masih mau bertanggung jawab menyelesaikan program di batch ini. Dan ya, menyelesaikan segalanya sebisamu adalah langkah yang cermat. Selamat, kamu hebat rifqi kesadaranmu atas segala kekuranganmu bisa kamu pakai untuk tanya sana-sini supaya kamu bisa memahami tiap materi seperti yang lain."
+    },
+    {
+        "id": "B16",
+        "name": "Rio",
+        "appellation": "The Hard Worker 💪",
+        "description": "Kalau nggak salah kamu ngikutin batch ini sambil kerja sampingan juga ya? Mungkin kalau aku jadi dirimu aku kalah fokus sih hahaha, tapi ternyata kamu bisa menyeimbangkan semua kewajibanmu dengan baik. Hebatnya kualitas progressmu nggak kalah bagus dengan mentee yang lain. Semangat ya semoga semua lebih baik ke depannya! GLHF. "
+    },
+    {
+        "id": "B17",
+        "name": "Lia",
+        "appellation": "The best long life learner ✍️",
+        "description": "Ibarat anak yang disuapi makan tapi lebih memilih belajar makan sendiri. Kamu lebih memilih mencari tahu cara mencari ikan dibanding mendapat ikan secara langsung. Kamu mungkin satu-satunya orang yang sulit merasa puas dari jawaban yang kuberikan, tanpa sadar setiap diskusi yang kita lewati kamu menyadarkan kekuranganku dan belajar beberapa hal juga darimu, Terima kasih sudah mau percaya dengan mentormu, Lia."
+    },
+    {
+        "id": "B18",
+        "name": "Ruth",
+        "appellation": "The Enthusiast 🤩",
+        "description": "Kamu tau Ms. Marvel? Nggak tahu kenapa, kalau interaksi ke kamu kebayangnya karakter Ms. Marvel hahaha. Superhero cilik yang antusias sama cita-citanya dan punya rasa penasaran. Dengan sifat penurut dan punya antusiasme mungkin kamu disenangi sama linkungan kerjamu karna kamu mampu mengikuti instruksi dengan baik, walaupun kamu sering aku kasih instruksi yang singkat tapi kamu berhasil mengikuti dan percaya. Semoga kamu selalu berada di lingkungan yang baik dan nyaman, Ruth!"
+    },
+    {
+        "id": "B19",
+        "name": "Ryzal",
+        "appellation": "The Silent Wolf 🦊",
+        "description": "Diam adalah emas. Di antara 4 anak jogja kamu yang mungkin berani kulepas untuk menyelesaikan apapun sendiri karena sudah cukup mandiri. Bahkan mungkin teman-temanmu mempercayaimu untuk membantu kesulitan mereka. Keep humble, bro!"
+    },
+    {
+        "id": "B20",
+        "name": "Sagung",
+        "appellation": "Miss Independent 👩‍⚖️",
+        "description": "Aku tahu kamu sudah punya basic skill dan lumayan experienced dalam software development tapi sepertinya kamu sangat sibuk di akhir-akhir stupen ini sampai kesehatanmu menurun. Tapi hebatnya kamu nggak cerita ke siapapun dan nggak banyak alasan sehingga tetap bergerak dalam diam. See on the top, gung! Terima kasih untuk tidak memilih berhenti di tengah jalan."
+    },
+    {
+        "id": "B21",
+        "name": "Syafa",
+        "appellation": "From Zero, to Hero 🦸‍♀️",
+        "description": "Kamu inget nggak pertama kali kamu bilang ke aku kalau mau pindah kelas karena belum memahami apapun di React JS? But you did it, kid! Ternyata caramu mengerjakan tugas dan menyelesaikan project-project di program ini tidak menggambarkan dirimu seperti yang kamu bilang di awal, ternyata lebih dari itu. Yuk, coba grounding ke diri sendiri kalau kamu mampu untuk menghadapi apapun. "
+    },
+    {
+        "id": "B22",
+        "name": "Talitul",
+        "appellation": "The little girl with iron heart 🩶",
+        "description": "Aku ngerti kamu struggle mati-matian buat ngejar materi, tugas, dan kuliah. Aku akan marah semarah-marahnya kalau seandainya kamu berhenti di tengah jalan. Maaf ya talitul kalau lagi pairing aku agak sedikit keras ke kamu, mungkin sedikit tertekan tidak apa-apa karena aku tahu kamu adalah wanita yang kuat. Sama seperti bestie-mu Nindy, aku pikir kamu perlu istirahat dulu sebentar, jangan terlalu keras dengan dirimu sendiri. Makasih sudah mau bersabar dan berjuang sampai selesai, angkat topi buat perjuanganmu. Respect!"
+    },
+    {
+        "id": "B23",
+        "name": "Natan",
+        "appellation": "The Marksmen 🏹",
+        "description": "Dear Natan (asekk), role-mu kalau di MOBA game seperti marksmen, cari gold sebanyak-banyaknya untuk beli item/senjata untuk war dengan musuh. Dirimu punya cara sendiri untuk menyelesaikan masalah dan tidak pernah sungkan untuk bertanya. Terima kasih untuk perjuangannya!"
+    },
+    {
+        "id": "B24",
+        "name": "Yudha",
+        "appellation": "Mysterious Boy 👻",
+        "description": "Diam-diam menghanyutkan. Nggak ada yang tahu jalan pikir dan rencanamu kemana, mungkin di antara semua orang di kelas ini kamu yang sulit ditebak. Tapi mungkin orang akan merasa save jika bekerja sama denganmu. Btw, makasih ya jauh-jauh ke bandung cuma karena kuajak ngopi hahaha."
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "B1",
+        "name": "Alfin",
+        "appellation": "The Humble Leader",
+        "description": "Tahu nggak, banyak orang yang bisa bicara tapi sedikit yang mampu mendengar? Di antara teman-temanmu mungkin kamu adalah orang yang paling mau memahami dan mendengar, basic manner komunikasi dan knowledge-mu bisa bikin kamu jadi leader. Tinggal poles hard skill-mu, powermu mungkin akan jauh lebih bertambah."
+    },
+    {
+        "id": "B2",
+        "name": "Alvitto",
+        "appellation": "The Miracle Boy",
+        "description": "Kalau dirimu bekerja di tim-ku mungkin akan kujadikan man power yang bisa dipercaya dan orang yang mengandalkanmu akan merasa aman. Sedikit adaptasi dengan lingkungan yang variatif, kamu akan lebih banyak dicari orang-orang, jangan menyerah bro untuk memahami sesuatu selain per-coding-an. Stay humble, stay foolish kalo kata steve jobs."
+    },
+    {
+        "id": "B3",
+        "name": "Dzakwan",
+        "description": ""
+    },
+    {
+        "id": "B4",
+        "name": "Fadli",
+        "appellation": "The Fighter",
+        "description": "Slow but sure. Setelah melihat perkembangan dan effort-mu di capstone project ini kamu tetap mencoba memahami dan menyelesaikan meskipun rasanya mau nyerah. Tapi sebenarnya kamu sudah menginvestasikan kesulitan disini dan suatu saat akan berguna. Menyerahlah jika memang sudah waktunya menyerah."
+    },
+    {
+        "id": "B5",
+        "name": "Fatur",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B6",
+        "name": "Pau",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B7",
+        "name": "Oniw",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B8",
+        "name": "Hasan",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B9",
+        "name": "Adzan",
+        "appellation": "The Hustle and The Adventurer",
+        "description": "Slogan mainstream My trip, My Adventure ternyata nggak cuma cocok di hobi motoranmu doang, spirit eksplorasi banyak hal juga bisa dicoba di dunia software engineering kok, dan nggak kalah seru dari traveling. Ngoding di outdoor atau di ketinggian 300 mdpl juga seru kalau mau coba hahaha"
+    },
+    {
+        "id": "B10",
+        "name": "Nabil",
+        "appellation": "The Barudak Well",
+        "description": "Kalau masih bingung mau ngejar karir apa atau tujuan, coba-coba aja dulu semuanya. Tapi dunia ini nggak cuman tentang karir kok, apapun yang bakal kamu coba nanti jangan nyerah dan tetep semangat."
+    },
+    {
+        "id": "B11",
+        "name": "Mujib",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B12",
+        "name": "Nindy",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B13",
+        "name": "Norman",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B14",
+        "name": "Nuzul",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B15",
+        "name": "Rifqi",
+        "appellation": "Mungkin aja setelah kamu tahu kalau pindah ke kelas lain nggak bisa, kamu bisa aja untuk nggak lagi aktif di program ini. Tapi, untungnya kamu punya bahan bakar kemauan yang tinggi, yang jarang orang punya atau alasan apapun untuk kamu masih mau bertanggung jawab menyelesaikan program di batch ini. Selamat, kamu hebat rifqi kesadaranmu atas segala kekuranganmu bisa kamu pakai untuk tanya sana-sini supaya kamu bisa memahami tiap materi seperti yang lain.",
+        "description": ""
+    },
+    {
+        "id": "B16",
+        "name": "Rio",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B17",
+        "name": "Lia",
+        "appellation": "The best long life learner",
+        "description": "Ibarat anak yang disuapi makan tapi lebih memilih belajar makan sendiri. Kamu lebih meilih mencari tahu cara mencari ikan dibanding mendapat ikan secara langsung. Kamu mungkin satu-satunya orang yang sulit merasa puas dari jawaban yang kuberikan, tanpa sadar setiap diskusi yang kita lewati kamu menyadarkan kekuranganku dan belajar beberapa hal juga darimu, Terima kasih sudah mau percaya dengan mentormu, Lia."
+    },
+    {
+        "id": "B18",
+        "name": "Ruth",
+        "appellation": "",
+        "description": ""
+    },
+    {
+        "id": "B19",
+        "name": "Ryzal",
+        "appellation": "The Silent Wolf",
+        "description": "Diam adalah emas. Di antara 4 anak jogja kamu yang mungkin berani kulepas untuk menyelesaikan apapun sendiri karena sudah cukup mandiri. Bahkan mungkin teman-temanmu mempercayaimu untuk membantu kesulitan mereka. Keep humble, bro!"
+    },
+    {
+        "id": "B20",
+        "name": "Sagung",
+        "appellation": "Miss Independent",
+        "description": "Aku tahu kamu sudah punya basic skill dan lumayan experienced dalam software development tapi sepertinya kamu sangat sibuk di akhir-akhir stupen ini sampai kesehatanmu menurun. Tapi hebatnya kamu nggak cerita ke siapapun dan nggak banyak alasan sehingga tetap bergerak dalam diam. See on the top, gung! Terima kasih untuk tidak memilih berhenti di tengah jalan."
+    },
+    {
+        "id": "B21",
+        "name": "Syafa",
+        "appellation": "From Zero, to Hero",
+        "description": "Kamu inget nggak pertama kali kamu bilang ke aku kalau mau pindah kelas karena belum memahami apapun di React JS? But you did it, kid! Ternyata caramu mengerjakan tugas dan menyelesaikan project-project di program ini tidak menggambarkan dirimu seperti yang kamu bilang di awal, ternyata lebih dari itu. Yuk, coba grounding ke diri sendiri kalau kamu mampu untuk menghadapi apapun. "
+    },
+    {
+        "id": "B22",
+        "name": "Talitul",
+        "appellation": "The little girl with iron heart",
+        "description": "Aku ngerti kamu struggle mati-matian buat ngejar materi, tugas, dan kuliah. Aku akan marah semarah-marahnya kalau seandainya kamu berhenti di tengah jalan. Maaf ya talitul kalau lagi pairing aku agak sedikit keras ke kamu, mungkin sedikit tertekan tidak apa-apa karena aku tahu kamu adalah wanita yang kuat. Makasih sudah mau bersabar dan berjuang sampai selesai, Respect!"
+    },
+    {
+        "id": "B23",
+        "name": "Natan",
+        "appellation": "The Marksmen",
+        "description": "Dear Natan (asekk), role-mu kalau di MOBA game seperti marksmen, cari gold sebanyak-banyaknya untuk beli item/senjata untuk war dengan musuh. Dirimu punya cara sendiri untuk menyelesaikan masalah dan tidak pernah sungkan untuk bertanya. Terima kasih untuk perjuangannya!"
+    },
+    {
+        "id": "B24",
+        "name": "Yudha",
+        "appellation": "Mysterious Boy",
+        "description": "Diam-diam menghanyutkan. Nggak ada yang tahu jalan pikir dan rencanamu kemana, mungkin di antara semua orang di kelas ini kamu yang sulit ditebak. Tapi mungkin orang akan merasa save jika bekerja sama denganmu."
+    }
+]
